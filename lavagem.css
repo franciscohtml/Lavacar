@@ -1,0 +1,33 @@
+header {
+    background: rgb(90, 90, 199);
+    padding: 20px 0;
+}
+
+.cabecalho{
+
+    position: relative; /**texto do meio*/
+    width: 500px; /**largura da caixa */
+    margin: 0 auto; /*calcula margem */
+}
+
+nav{
+    position: absolute; /* ocupa todo espaço */
+    top: 110px;  /* ficar no topo */
+}
+
+nav li {
+    display: inline; /* ficar na horizontal */
+    margin: 0 0 0 15px; /* espaço para esquerda */
+}
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold; /*texto*/
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: red;
+    text-decoration: underline;
+}
