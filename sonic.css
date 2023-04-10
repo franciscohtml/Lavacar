@@ -6,7 +6,7 @@ header {
 .cabecalho{
 
     position: relative; /**texto do meio*/
-    width: 500px; /**largura da caixa */
+    width: 90px; /**largura da caixa */
     margin: 0 auto; /*calcula margem */
 }
 
@@ -54,4 +54,10 @@ nav a:hover{
     border-color:aqua;
     font-size: 24px;
     border-radius: 50px;
+}
+
+.topicos img {
+
+    width: 20px;
+    
 }
