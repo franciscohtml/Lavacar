@@ -6,7 +6,7 @@ header {
 .cabecalho{
 
     position: relative; /**texto do meio*/
-    width: 500px; /**largura da caixa */
+    width: 940px; /**largura da caixa */
     margin: 0 auto; /*calcula margem */
 }
 
