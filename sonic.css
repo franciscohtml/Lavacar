@@ -42,7 +42,7 @@ nav a:hover{
     display: inline-block; /* alinha */
     border: 4px solid black;
     text-align: center;
-    width: 30%;
+    width: 50%;
     margin: 0 1.5%;
     vertical-align: top;
     padding: 30px 20px;
@@ -52,12 +52,41 @@ nav a:hover{
 
 .topicos li:hover{
     border-color:aqua;
-    font-size: 24px;
+    font-size: 30px;
     border-radius: 50px;
 }
 
 .topicos img {
 
-    width: 20px;
+    width: 100px;
     
 }
+
+.sonic {
+    width: 400px;
+}
+
+.topicos li:hover{
+    border-color:aqua;
+    font-size: 24px;
+    border-radius: 50px;
+}
+.topicos li:active {
+    border-color: rgb(13, 245, 13);
+    font-size: 40px;
+}
+ footer{
+    background: black;
+    padding: 0;
+    text-align: center;
+ }
+ .rodape {
+    color: white;
+    font-size: 20px;
+    margin: 20px 0 20px;
+ }
+
+ .sanic{
+
+    width: 200px;
+ }

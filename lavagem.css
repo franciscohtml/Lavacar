@@ -55,3 +55,17 @@ nav a:hover{
     font-size: 24px;
     border-radius: 50px;
 }
+.topicos li:active {
+    border-color: rgb(13, 245, 13);
+    font-size: 40px;
+}
+ footer{
+    background: black;
+    padding: 0;
+    text-align: center;
+ }
+ .rodape {
+    color: white;
+    font-size: 20px;
+    margin: 20px 0 20px;
+ }
